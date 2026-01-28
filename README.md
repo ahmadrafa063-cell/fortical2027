@@ -1,2 +1,1 @@
-# fortical2027
-gantengbangett
+informatics
